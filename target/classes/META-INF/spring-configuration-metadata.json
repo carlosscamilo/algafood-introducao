@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "notificador.email",
+      "type": "com.algaworks.algafood.notificacao.NotificadorProperties",
+      "sourceType": "com.algaworks.algafood.notificacao.NotificadorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "notificador.email.host-servidor",
+      "type": "java.lang.String",
+      "description": "Teste de documentação, ao colocar essa descrição a propriedade ficará documentada Host do Servidor de email",
+      "sourceType": "com.algaworks.algafood.notificacao.NotificadorProperties"
+    },
+    {
+      "name": "notificador.email.porta-servidor",
+      "type": "java.lang.Integer",
+      "description": "Porta do servidor",
+      "sourceType": "com.algaworks.algafood.notificacao.NotificadorProperties"
+    }
+  ],
+  "hints": []
+}
